@@ -1,16 +1,16 @@
-### Hi there 👋
+**Eae povo**
 
-<!--
-**SammX777/SammX777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Samuel
 
-Here are some ideas to get you started:
+Atualmente estou estudando no alura e
+estou gostando de várias coisas que vejo. 
+E futuramente usarei esse espaço para
+compartilhar meus projetos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Voce pode entrar em contato comigo em:**
+
+sammuelsantanna2019@gmail.com✉️
+
+Então é isso, espero que gostem doa meus futuros projeto🫡
+
+![](https://github.com/SammX777/SammX777/assets/135627068/efc8fe1f-33a8-4cc3-8a63-6e4da4f0884b)
