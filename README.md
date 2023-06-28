@@ -11,6 +11,6 @@ compartilhar meus projetos.E também pretendo melhorar minha linguagem com Scrip
 
 sammuelsantanna2019@gmail.com✉️
 
-Então é isso, espero que gostem doa meus futuros projeto🫡
+Então é isso, espero que gostem dos meus futuros projeto🫡
 
 ![](https://github.com/SammX777/SammX777/assets/135627068/efc8fe1f-33a8-4cc3-8a63-6e4da4f0884b)
