@@ -5,7 +5,7 @@ Meu nome é Samuel
 Atualmente estou estudando no alura e
 estou gostando de várias coisas que vejo. 
 E futuramente usarei esse espaço para
-compartilhar meus projetos. 
+compartilhar meus projetos.E também pretendo melhorar minha linguagem com Scripts e etc.
 
 **Voce pode entrar em contato comigo em:**
 
